@@ -103,8 +103,8 @@ const Navbar = () => {
             </div>
 
             <a
-              href="/SUFIYAN_CHAUDHARI_RESUME.pdf"
-              download="SUFIYAN_CHAUDHARI_RESUME.pdf"
+              href="/SUFIYAN_CV.pdf"
+              download="SUFIYAN_CV.pdf"
               className=" 
                p-1
                

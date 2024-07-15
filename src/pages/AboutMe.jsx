@@ -14,20 +14,20 @@ const AboutMe = () => {
 
   const data = [
     {
-      question: "Who Are You?",
+      question: "Who am I?",
       answer: "Hello 👋, I'm Sufiyan Chaudhari.",
     },
     {
-      question: "What Do You Do?",
+      question: "What Do I Do?",
       answer:
         "I'm a full-stack developer specializing in modern web technologies.",
     },
     {
-      question: "Where Are You From?",
+      question: "Where I'm From?",
       answer: "I'm from Mumbai, India.",
     },
     {
-      question: "How Can I Contact You?",
+      question: "How Can you reach me?",
       answer: "You can contact me via email at msufiyanhusen@gmail.com.",
     },
   ];
